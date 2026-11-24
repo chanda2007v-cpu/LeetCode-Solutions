@@ -8,8 +8,7 @@ class Solution {
                 num-=1;
             steps++;
        }
-       return steps;
-       
+       return steps;      
     }
 }
 
